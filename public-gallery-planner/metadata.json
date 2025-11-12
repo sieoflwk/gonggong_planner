@@ -1,0 +1,5 @@
+{
+  "name": "Public Gallery Planner",
+  "description": "A comprehensive planner for students, featuring subject management, to-do lists, D-Day counters, a custom vocabulary builder, and a mistake notebook. Rebuilt with a modern UI/UX using React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
